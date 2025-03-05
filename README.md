@@ -45,13 +45,3 @@ I'm passionate about crafting scalable web applications using modern frameworks 
 
 ---
 
-### 👨‍💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ███████████░░░░░░░░  45.50%
-Python       8 hrs 45 mins   ███████░░░░░░░░░░░░  31.85%
-TypeScript   4 hrs 15 mins   ███░░░░░░░░░░░░░░░░  15.45%
-Other        2 hrs          █░░░░░░░░░░░░░░░░░░   7.20%
-```
-<!--END_SECTION:waka-->
